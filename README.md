@@ -1,4 +1,4 @@
-# virtual-laboratory
+# Virtual Laboratory
 
 simulation d'un laboratoire en réalité virtuelle.
 
